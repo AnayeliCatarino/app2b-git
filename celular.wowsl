@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>21</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>celular</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/galaxy/</ImageTemplate>
+            <ImageTemplateName>Galaxy</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>J:/DAM/PRACTICAS/2 Parcial/aplicaciones/app2/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>J:/DAM/PRACTICAS/2 Parcial/aplicaciones/app2</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Roboto Condensed</TemplateFont>
+            <TemplateName>galaxy</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>J:/DAM/PRACTICAS/2 Parcial/aplicaciones/app2/imagenes/phone5.jpg</url>
+                <title>phone5</title>
+                <filesize>15781</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/PRACTICAS/2 Parcial/aplicaciones/app2/imagenes/phone6.jpg</url>
+                <title>phone6</title>
+                <filesize>38618</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/PRACTICAS/2 Parcial/aplicaciones/app2/imagenes/furure1.jpg</url>
+                <title>furure1</title>
+                <filesize>98766</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/PRACTICAS/2 Parcial/aplicaciones/app2/imagenes/furure2.jpg</url>
+                <title>furure2</title>
+                <filesize>75322</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/PRACTICAS/2 Parcial/aplicaciones/app2/imagenes/gama1.jpg</url>
+                <title>gama1</title>
+                <filesize>12220</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/PRACTICAS/2 Parcial/aplicaciones/app2/imagenes/gama3.jpg</url>
+                <title>gama3</title>
+                <filesize>98766</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/PRACTICAS/2 Parcial/aplicaciones/app2/imagenes/gamaal.jpg</url>
+                <title>gamaal</title>
+                <filesize>278089</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/PRACTICAS/2 Parcial/aplicaciones/app2/imagenes/gamab.jpg</url>
+                <title>gamab</title>
+                <filesize>102272</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/PRACTICAS/2 Parcial/aplicaciones/app2/imagenes/gamam.jpg</url>
+                <title>gamam</title>
+                <filesize>26243</filesize>
+            </Image>
+            <Image>
+                <url>J:/DAM/PRACTICAS/2 Parcial/aplicaciones/app2/imagenes/phone2.1.jpg</url>
+                <title>phone2.1</title>
+                <filesize>20579</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
